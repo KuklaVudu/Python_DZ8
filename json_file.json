@@ -1,0 +1,110 @@
+{
+    "name": "HM8",
+    "type": "directory",
+    "attachment": [
+        {
+            "name": "draft",
+            "type": "directory",
+            "attachment": [
+                {
+                    "name": "qyrcowuxfdk.txt",
+                    "extension": ".txt",
+                    "type": "file"
+                },
+                {
+                    "name": "shvytrgmiwxfdn.txt",
+                    "extension": ".txt",
+                    "type": "file"
+                },
+                {
+                    "name": "Task.py",
+                    "extension": ".py",
+                    "type": "file"
+                },
+                {
+                    "name": "yjtcgzbirwulfn.txt",
+                    "extension": ".txt",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "HomeWork_8.py",
+            "extension": ".py",
+            "type": "file"
+        },
+        {
+            "name": "json_file.json",
+            "extension": ".json",
+            "type": "file"
+        },
+        {
+            "name": "Seminar_4",
+            "type": "directory",
+            "attachment": [
+                {
+                    "name": "Task_1.py",
+                    "extension": ".py",
+                    "type": "file"
+                },
+                {
+                    "name": "Task_2.py",
+                    "extension": ".py",
+                    "type": "file"
+                },
+                {
+                    "name": "Task_3.py",
+                    "extension": ".py",
+                    "type": "file"
+                },
+                {
+                    "name": "Task_4.py",
+                    "extension": ".py",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "Seminar_5",
+            "type": "directory",
+            "attachment": [
+                {
+                    "name": "Task_1.py",
+                    "extension": ".py",
+                    "type": "file"
+                },
+                {
+                    "name": "Task_2.py",
+                    "extension": ".py",
+                    "type": "file"
+                },
+                {
+                    "name": "Task_3.py",
+                    "extension": ".py",
+                    "type": "file"
+                },
+                {
+                    "name": "Task_4.py",
+                    "extension": ".py",
+                    "type": "file"
+                },
+                {
+                    "name": "Task_5.py",
+                    "extension": ".py",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "Seminar_6",
+            "type": "directory",
+            "attachment": [
+                {
+                    "name": "Task_1.py",
+                    "extension": ".py",
+                    "type": "file"
+                }
+            ]
+        }
+    ]
+}
